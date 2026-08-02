@@ -77,7 +77,7 @@ function GiftBox() {
           <img src={birthdayImg} alt="birthday" className="birthday-img" />
 
           {/* Typing Text */}
-          <h1 className="typing">Happy Birthday 🎂</h1>
+          <h1 className="typing">Happy Birthday Avni 🎂</h1>
 
           <p>Wishing you lots of happiness, success and beautiful moments ❤️</p>
 
